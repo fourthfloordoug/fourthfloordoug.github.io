@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Doug's CV
+---
+
 # Douglas Ratay
 
 12236 Tildenwood Drive<br>
