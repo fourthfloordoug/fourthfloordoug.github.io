@@ -5,41 +5,37 @@ title: Doug's CV
 
 # Douglas Ratay
 
-12236 Tildenwood Drive<br>
 Rockville, Maryland 20852<br>
-(301) 770-3538<br>
 dsratay@gmail.com<br>
 
 ## EXPERIENCE
-***Senior Engineer***, Decisive Analytics Corporation, Arlington, VA (2009 - present)
-* Experienced SBIR professional, writing and leading proposals to over $5M in wins
-* Significant program managment experience leading teams of up to 6 on over a dozen small business contracts
-* Lead researcher and software developer for a novel computer vision and data fusion technique leading to multiple patent applications
-* Significant experience working in Government and prime contractor facility deploying software for integration in national systems
-* Experitise in space based infrared, hyperspectral, ground based EOIR, and radar systems
-* Experience in multiple computing languages and development environments
+***Senior Engineer***, Decisive Analytics Corporation, Arlington, VA (2009 - )
+* Business Development Lead - Over $5M in SBIR wins as PI or proposal manager
+* R&D Program Manager - Lead small teams on multiple contracts towards actionable results
+* Computer Vision and Data Fusion Researcher - Develop novel technique leading to multiple patent applications
+* Software Development Lead - Convert basic algorithm sketches into deliverable systems using multiple languages/environments
+* Collaborative Integrator - Work within Government and prime contractor facilities to deploy software into national systems
+* Sensor and Data Generalist - Experitise in space based infrared, hyperspectral, ground based EOIR, and radar systems
 
 ***Research Analyst***, Cortana Corporation, Falls Church, VA (2005 - 2009)
-* Performed algorithm development and validation on a physics-based surface optics model
-* Led development of GUI redesign and MySQL backend integration
-* Utilized Java3D and JFreeGraph to create visualizations of complex model parameters
-* Responsible for software documentation including User’s Guide and Algorithm Description Documents
-* Develop statistical analysis and testing software in Java, C++ and Matlab
+* Algorithm Developer - wrote and validated a physics-based surface optics model
+* UI/UX Developer - Led GUI redesign and MySQL backend integration
+* Data Visualization - Utilized 3D tools to display complex model parameters and data
+* Technical Writer - Responsible for documentation such as User’s Guide and Algorithm Description
 
 ***Curriculum Consultant***, The Education Trust, Washington, DC (2004 - 2006)
-* Deliver standards based professional development program as a certified SIP (Standards In Practice) consultant
-* Evaluated science and mathematics curriculum and instruction for a large study of public high schools
-* Performed site visits to multiple high schools to evaluate science and mathematics content delivery
-* Served as member of several panels to evaluate state level curriculum standards
+* Professional Development Provider - Deliver standards based program as a certified Standards In Practice consultant
+* Curriculum Evaluator - reviewed STEM curriculum and instruction for a Gates Foundation funded study of high schools
+* Standards Consultant - Served on multiple panels to evaluate proposed state documents
 
-## SMALL BUSINESS CONTRACTS AWARDED
-* SBIR AF171-090 (Phase 1 current), Delta-M, $150K
+## SMALL BUSINESS CONTRACTS AWARDED AS PI
+* SBIR AF171-090 (Phase 1 current), DELTA-M, $150K
 * SBIR AF171-085 (Phase 1 current), AGITATE, $150K
-* SBIR AF151-108 (Phase 1 and II), AMTACS, $1.0M
+* SBIR AF151-108 (Phase 1 and II current), AMTAcS, $1.0M
 * SBIR MDA12-005 (Phase I and II), Multi-sensor Fusion, $1.0M
-* SBIR AF10 (Phase I) - , $100K
-* SBIR AF09- (Phase I) - , $100K
-* SBIR MDA08-038 (Phase I and II) - Midcourse Discrimintation, $2.75M
+* SBIR AF103-064 (Phase I), Multi-Sensor Tracking, $100K
+* SBIR AF093-156 (Phase I), Shape and Motion Estimation, $100K
+* SBIR MDA08-038 (Phase I, II, and III), Midcourse Discrimintation, $2.75M
 
 ## Education
 ***Ph.D. in Astronomy***, August 2004<br>
@@ -71,11 +67,11 @@ Java, Scala, R, C++, CUDA, Matlab, Ruby
 Satellite Toolkit, XPatch, Optical Signatures Code, FLITES, RStudio, Eclipse, Git, Microsoft Project, Microsoft Office
 
 ## COMMUNITY SERVICE
-***Treasurer***, Chadsberry Homeowners Association, Rockville, MD (2008-current)
+***Treasurer***, Chadsberry Homeowners Association, Rockville, MD (2008 - )
 
-***Basic Literacy Tutor***, Literacy Council of Montgomery County (2006 – 2007)
+***Basic Literacy Tutor***, Literacy Council of Montgomery County (2006 - 2007)
 
-***Volunteer Science Instructor***, Eastside High School, Gainesville, FL (2001-2004)
+***Volunteer Science Instructor***, Eastside High School, Gainesville, FL (2001 - 2004)
 
 ***Senator***, Student Government, University of Florida, Gainesville, FL (2004)
 
