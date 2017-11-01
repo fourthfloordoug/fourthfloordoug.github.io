@@ -1,2 +1,5 @@
 _site/
 about/*.pdf
+cv/*.pdf
+.sass-cache/
+.sass-cache/*

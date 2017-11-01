@@ -1,4 +1,7 @@
-name: Douglas Fir, Tree
+name: Doug
 markdown: kramdown
 
 permalink: /blog/:year/:month/:day/:title
+
+sass:
+  style: compressed
