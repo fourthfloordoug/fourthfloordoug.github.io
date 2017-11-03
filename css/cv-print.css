@@ -53,7 +53,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 8pt;
+	font-size: 9pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
@@ -63,31 +63,31 @@ body {
 
 p {
 	position: relative;
-	left: 35%;
+	left: 14%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 65%;
+	width: 86%;
 }
 
 code {
 	font: normal normal;
-	font-size: 85%;
+	font-size: 100%;
 	/*line-height: 1em;*/
-	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	font-family: Verdana,sans-serif/*Menlo,monospace,sans-serif*/;
+	color: #000;
 }
 
 p code {
 	position: absolute;
-	left: -20%;
+	left: -15%;
 }
 
 
 ul {
 	position: relative;
-	left: 35%;
-	width: 65%;
-	margin-bottom: 1em;
+	left: 14%;
+	width: 86%;
+	margin-bottom: 0.5em;
 	/*margin-top: -0.5em;*/
 }
 
@@ -115,15 +115,14 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
-	width: 65%;
+	width: 100%;
 }
 
 h1 {
-	text-align: left;
+	text-align: center;
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 20%;
 }
 
 h1+p {
@@ -134,27 +133,40 @@ h1+p {
 
 h2 {
 	font-size: 1em;
-	color: #a00;
-	margin-top: 2em;
-	margin-bottom: 1.5em;
+	color: #000;
+	margin-top: 1em;
+	margin-bottom: 1em;
 	position: relative;
 	top: 1.2em;
-	text-align: right;
-	width: 20%;
+	text-align: center;
 }
 
 h2+p {
-	margin-top: 2.5em;
+	margin-top: 1em;
+}
+
+h2::before,
+h2::after {
+    display: inline-block;
+    content: "";
+    border-top: .1rem solid black;
+    width: 4rem;
+    margin: 0 1rem;
+    transform: translateY(-0.3rem);
 }
 
 h3 {
 	font-size: 1em;
 	line-height: 1em;
-	color: #ccc;
+	color: #000;
 	position: relative;
 	top: 1em;
-	text-align: right;
-	width: 20%;
+	text-align: left;
+	left: 1%;
+}
+
+h3+p {
+	margin-top:1.0em
 }
 
 h4 {
@@ -162,8 +174,24 @@ h4 {
 	line-height: 1em;
 	position: relative;
 	top: 1em;
+	text-align: center;
+}
+
+h5 {
+	font-weight: 400;
+	font-family: Verdana,sans-serif;
+	left: 5%;
+	width: 90%;
+	line-height: 1.35em;
+	position: relative;
 	text-align: left;
-	left: 20%;
+	top: 1.2em;
+	/*margin-left: 5em
+	margin-right: 5em*/
+}
+
+h5+p {
+	margin-top: 1em
 }
 
 a {
@@ -189,8 +217,8 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	font-weight: bold;
+	/*color: #2d4e5e*/
 }
 
 strong {

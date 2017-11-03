@@ -1,10 +1,13 @@
 ---
 layout: cv
-title: Doug Ratay
+title: Doug
 ---
 
-# Douglas Ratay
+# Doug
 #### Rockville, Maryland
+
+## SUMMARY
+##### Dr. Douglas Ratay has over a decade of experience as a physical scientist in support of computer vision, data fusion, and geospatial intelligence programs.  Dr. Ratay is currently the Principle Investigator for deep learning projects at Decisive Analytics Corporation, developing tools for use in deployed overhead persistent infrared, optical video, and radar sensor systems.  Through this work, Dr. Ratay has developed and worked with advanced probabilistic modeling software to produce new sensor fusion tools for existing and future systems.  Dr. Ratay has experience working in a wide variety of software languages and environments, including Java, Scala, R, and Matlab.
 
 ## EXPERIENCE
 ### Senior Engineer
@@ -12,25 +15,25 @@ title: Doug Ratay
 Decisive Analytics Corporation, Arlington, VA
 * *Business Development Lead* - Over $5M in SBIR wins as PI or proposal manager
 * *R&D Project Manager* - Lead small teams to develop new technology into usable products
-* *Computer Vision and Data Fusion Innovator* - Develop novel deep leavning techniques leading to a submitted patent application
-* *Software Development Lead* - Convert basic algorithm concepts into deliverable systems using multiple languages/environments
-* *Collaborative Integrator* - Work with Government and prime contractor personel and facilities to deploy software into existing systems
-* *Sensor and Data Generalist* - Experitise in space based infrared, hyperspectral, optical video, and radar systems
+* *Computer Vision / Data Fusion Innovator* - Develop novel deep leavning techniques leading to a patent application
+* *Software Development Lead* - Convert basic algorithm concepts into deliverable systems in multiple environments
+* *Collaborative Integrator* - Work with Government and prime contractor staff to deploy software into existing systems
+* *Sensor/Data Generalist* - Experitise in space, air, and ground based infrared, hyperspectral, optical, and radar systems
 
 ### Research Analyist
 `2005 - 2009`
 Cortana Corporation, Falls Church, VA
-* *Algorithm Developer* - wrote and validated a physics-based surface optics model
+* *Algorithm Engineer* - developed and validated a physics-based surface optics model
 * *UI/UX Developer* - Led GUI redesign and MySQL backend integration
-* *Data Scientist* - Developed statistical analysis and visualization tools to describe complex model parameters and data
+* *Data Scientist* - Developed analysis and visualization tools to describe model parameters and data
 * *Technical Writer* - Responsible for documentation such as User’s Guide and Algorithm Description
 
 ### Curriculum Consultant
 `2004 - 2006`
 The Education Trust, Washington, DC
-* *Professional Development Provider* - Deliver standards based program as a certified Standards In Practice consultant
-* *Curriculum Evaluator* - reviewed STEM curriculum and instruction for a Gates Foundation funded study of high schools
-* *Standards Consultant* - Served on multiple panels to evaluate proposed state documents
+* *Professional Development Provider* - Delivered instruction as a certified Standards In Practice consultant
+* *Curriculum Evaluator* - reviewed STEM curriculum and instruction for Gates Foundation study of high schools
+* *Standards Consultant* - Served on panels to evaluate proposed state documents
 
 ## CONTRACT WINS
 ### SBIR/STTR Program
@@ -48,6 +51,18 @@ Multi-Sensor Tracking, AF103-064, $100K <br>
 Shape and Motion Estimation, AF093-156, $100K <br>
 `2009 - 2014`
 Midcourse Discrimintation, MDA08-038, $2.75M <br>
+
+## COMPUTER PROFFICIENCY
+### Languages
+Java, Scala, R, C++, CUDA, Matlab, Ruby <br>
+
+### Programs and Tools
+Satellite Toolkit, ASSET, XPatch, Optical Signatures Code, FLITES, RStudio, Eclipse, Git, MS Project, MS Office <br>
+
+## SECURITY CLEARANCE
+Active DoD Top Secret
+
+<div style="page-break-after: always;"></div>
 
 ## EDUCATION
 ### Ph.D. in Astronomy
@@ -72,16 +87,6 @@ Instituto de Astrofisica, La Laguna, Tenerife, Spain <br>
 Connecticut College, New London, CT <br>
 Magna cum Laude with Honors and Distinction <br>
 "Optical Variability of Markarian 501"
-
-## SECURITY CLEARANCE
-Active DoD Top Secret
-
-## COMPUTER PROFFICIENCY
-### Languages
-Java, Scala, R, C++, CUDA, Matlab, Ruby <br>
-
-### Programs and Tools
-Satellite Toolkit, ASSET, XPatch, Optical Signatures Code, FLITES, RStudio, Eclipse, Git, Microsoft Project, Microsoft Office <br>
 
 ## COMMUNITY SERVICE
 ### Treasurer
@@ -124,4 +129,4 @@ Graduate Student Council, University of Florida, Gainesville, FL
 `2001` The HI distribution of NGC 1784, Vol. CS-240 (Ratay D & Gottesman S) <br>
 
 ### Presentations
-`2013` Using All the Dimensions\: A Non-Linear Path from Physics to Computer Vision, Dickinson College Physics Department Colloquium <br>
+`2013` Using All the Dimensions\: A Non-Linear Path from Physics to Computer Vision, Dickinson College Physics Colloquium <br>
