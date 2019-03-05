@@ -16,7 +16,7 @@ Much of my time was spent waving a flag to control traffic.  We were too small o
 
 On patching days, we'd drive out to a designated street and park all of our trucks at one end.  One guy, usually Frank (He was a guitarist in a metal band in his free time and kind of looked like Frank Zappa) would drive our largest dump truck to the asphalt plant in the next town over to fill up, while the rest of us waited around trying to look not too un-busy. (Lounging public works employees could end up on the news.)  Upon his arrival, we would fall in line behind the truck, lutes in hand,
 
-[Picture of an Asphalt Lute]()
+[Lutes are available at this link](https://www.krafttool.com/products/by-category/asphalt/lutes-rakes)
 
 filling up all the potholes and cracks we could find.  The steamroller would be at the back of the line to finish the job.  We would march down the street like this, breaking for lunch or when Frank had to refill the truck.  Day after day this process continued through the summer, one street to another.  The plan of attack was driven by calls to the office, location of the houses of town politicians, and some vague plan that was supposed to cover the township over 5 years.  It was obvious that weather conditions were tied to the state of the street surface, but our efforts were not tightly coupled to these effects, and no one really knew what was coming next.  
 
