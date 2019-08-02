@@ -2,8 +2,8 @@
 
 Two non-technical articles on astroPH recently that I liked.  
 
-(Astro2020 APC White Paper: Tying Research Funding to Progress on Inclusion)[https://arxiv.org/abs/1907.11245]
-(Key Challenges for AAS Journals in the Next Decade)[https://arxiv.org/abs/1907.13202]
+[Astro2020 APC White Paper: Tying Research Funding to Progress on Inclusion](https://arxiv.org/abs/1907.11245)
+[Key Challenges for AAS Journals in the Next Decade](https://arxiv.org/abs/1907.13202)
 
 The first one doesn't say that much in terms of what should be done.  Mostly it's pointing out the problems with astronomy journals in the modern world.  The main US based astronomy journals (ApJ, AJ) are run by the national organization itself as opposed to one of the evil publishing houses.  This is nice, but they still cost a lot of money, both in page costs and in subscriptions.  The page costs are arguably worse, because you don't really need a subscription to get at journals anymore.  Maybe there's things hiding in the real things that I can't get on arXiv (and maybe you can search them better), but I haven't seen it.  Forcing people to pay page charges out of grant money seems not so great in this era of no grant money.  Further, I learned that although MNRAS was always free on page charges, it is exceedingly expensive in subscription.  
 
