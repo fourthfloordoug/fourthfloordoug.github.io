@@ -1,6 +1,6 @@
 # How Deep is My Love for this Paper?
 
-[https://arxiv.org/abs/1907.11700](Investing for Discovery in Astronomy)
+[Investing for Discovery in Astronomy](https://arxiv.org/abs/1907.11700)
 
 The TLDR; is that you should be investing both in big telescopes and small ones to progress the field.  She has a nice chart of recent discoveries in the community and what types of telescopes were used.  It turns out that it's actually a mix of them.  Crowding out all of the 1-2m telescopes so that you can only build football stadium sized mirrors doesn't actually push the field because there's only so many nights.  (And there's only so many available locations as the fight with the native Hawaiians is showing.)  
 
