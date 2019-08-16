@@ -1,4 +1,4 @@
-# August List of Books to obviously
+# August List of Books
 
 As always, I'm looking to remove tabs.  Here are some books I want to buy - and yeah, read too.  I've been thinking about ditching my kindle and going back to real books.  Not sure yet, but I like having a better record of what I've read other than the history page on the kindle, even if they're harder to move.
 
